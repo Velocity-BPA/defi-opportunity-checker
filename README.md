@@ -49,8 +49,8 @@ This project provides a real-time DeFi opportunity analyzer that helps users ide
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/defi-opportunity-checker.git
-cd defi-opportunity-checker
+git clone https://github.com/yourusername/DeFi-Opportunity-Checker.git
+cd DeFi-Opportunity-Checker
 ```
 
 2. **Import flows to Node-RED**
